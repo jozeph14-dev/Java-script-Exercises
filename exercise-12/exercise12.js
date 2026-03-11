@@ -1,0 +1,6 @@
+// exercise 12
+let fruits = ["apple", "banana", "cherry"]
+
+for(let x = 0; x <fruits.length; x++){
+    console.log(fruits[x])
+}
